@@ -7,7 +7,7 @@ Designed to help with a pomodoro-like technique.
 
 **Minutes**: Float. Number of minutes you'd like to count down. Can handle fractions.
 
-***Buttons***: Start begins the timer. Pressing start again while a timer runs does nothing. Stop will stop the timer.
+**Buttons**: Start begins the timer. Pressing start again while a timer runs does nothing. Stop will stop the timer.
 
 ## Output
 The minutes and seconds remaining.
